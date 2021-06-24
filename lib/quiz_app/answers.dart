@@ -15,7 +15,9 @@ class Answers extends StatelessWidget {
           fontWeight: FontWeight.bold,
         ),
       ),
-      onPressed: answerQuestion,
+      onPressed: () {
+        answerQuestion();
+      },
     );
   }
 }

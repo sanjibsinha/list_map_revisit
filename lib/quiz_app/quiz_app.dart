@@ -76,7 +76,7 @@ class _FirstPageState extends State<FirstPage> {
           child: Column(
             children: [
               Questions(
-                _questions[_questionIndex]['questionText'],
+                _questions[_questionIndex]['questionText']?.toString() ?? '',
               ),
               ...(_questions[_questionIndex]['answers'] as List<String>)
                   .map((answer) {
