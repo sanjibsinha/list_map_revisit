@@ -33,15 +33,30 @@ class _FirstPageState extends State<FirstPage> {
   var _questions = [
     {
       'questionText': 'What\'s the meaning of Assuetude?',
-      'answers': ['kiss', 'insolent', 'habit', 'half'],
+      'answers': [
+        'kiss',
+        'insolent',
+        'habit',
+        'half',
+      ],
     },
     {
       'questionText': 'What\'s the meaning of Disingenuous?',
-      'answers': ['guilty', 'jovial', 'jocular', 'insincere'],
+      'answers': [
+        'guilty',
+        'jovial',
+        'jocular',
+        'insincere',
+      ],
     },
     {
       'questionText': 'What\'s the meaning of Afflatus?',
-      'answers': ['ghost', 'inspiration', 'lifeless', 'greedy'],
+      'answers': [
+        'ghost',
+        'inspiration',
+        'lifeless',
+        'greedy',
+      ],
     },
   ];
 
