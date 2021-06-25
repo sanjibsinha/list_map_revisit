@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-
-import 'quiz_app/quiz_app.dart';
+import 'package:list_map_revisit/book_app/first_page.dart';
 
 void main() {
-  runApp(QuizApp());
+  runApp(FirstPage());
 }
 
 class MyApp extends StatelessWidget {

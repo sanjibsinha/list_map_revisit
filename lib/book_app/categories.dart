@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 class Categories {
   final String id;
-  final String tittle;
+  final String title;
   final Color color;
 
-  Categories({
+  const Categories({
     required this.id,
-    required this.tittle,
+    required this.title,
     this.color = Colors.redAccent,
   });
 }

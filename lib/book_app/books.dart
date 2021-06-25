@@ -6,7 +6,7 @@ class Books {
   final String title;
   final String detail;
 
-  Books({
+  const Books({
     required this.id,
     required this.categories,
     required this.title,
