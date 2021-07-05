@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:list_map_revisit/book_app/categories.dart';
+import 'package:list_map_revisit/book_app/model/categories.dart';
 
 const DUMMY_CATEGORIES = const [
   Categories(

@@ -1,4 +1,4 @@
-import 'package:list_map_revisit/book_app/books.dart';
+import 'package:list_map_revisit/book_app/model/books.dart';
 
 const DUMMY_BOOKS = const [
   Books(
