@@ -1,6 +1,18 @@
 # list_map_revisit
 
-A new Flutter project.
+# shop_app
+
+A new Flutter project for 
+
+- [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
+
+## Get the necessary Guide
+
+- [Beginning Flutter with Dart](https://leanpub.com/beginningflutterwithdart)
+- [Better Flutter](https://leanpub.com/betterflutter)
+- [State in Flutter](https://leanpub.com/stateinflutter)
+- [A Complete Flutter Guide: From Beginners to Advanced](https://leanpub.com/b/acompleteflutterguidefrombeginnerstoadvanced)
+
 
 ## Getting Started
 
@@ -14,3 +26,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
