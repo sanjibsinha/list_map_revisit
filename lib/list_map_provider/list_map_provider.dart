@@ -15,6 +15,7 @@ class Student with ChangeNotifier {
 }
 
 class Students with ChangeNotifier {
+  /// adding id and images
   List<Student> students = [
     Student(
       id: 's1',
