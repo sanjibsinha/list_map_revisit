@@ -39,7 +39,7 @@ class StudentsFirstHomePage extends StatelessWidget {
         title: Text('Students Home'),
       ),
       body: Center(
-        child: Column(
+        child: ListView(
           children: students.map((Student student) {
             bool selected = students.indexOf(student) == selectedIndex;
 
