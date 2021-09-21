@@ -1,8 +1,6 @@
 # list_map_revisit
 
-# shop_app
-
-A new Flutter project for 
+A new Flutter project for Developing Flutter App from Scratch
 
 - [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
 
